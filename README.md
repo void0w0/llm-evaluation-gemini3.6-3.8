@@ -1,11 +1,11 @@
 # llm-evaluation-gemini3.6-3.8
 Google Gemini APIを使った複数LLMモデル3.6-3.8の比較評価（応答時間・文字数・回答品質）
 
-##Tech Stack 使用技術
+## Tech Stack 使用技術
 - Python / Jupyter Notebook
 - Google Gemini API
 
-##Models Evaluated 評価モデル
+## Models Evaluated 評価モデル
 - gemini-3.6-flash
 - gemini-3.7-flash
 - gemini-3.8-flash
